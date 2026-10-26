@@ -1,0 +1,12 @@
+{
+	"servers": {
+		"workshop": {
+			"type": "stdio",
+			"command": "${workspaceFolder}/.venv/Scripts/python.exe",
+			"args": [
+				"${workspaceFolder}/example_mcp.py"
+			]
+		}
+	},
+	"inputs": []
+}
