@@ -1,0 +1,4 @@
+# ACM MCP workshop. Python 3.10+.
+# The cli extra adds `mcp dev`, which opens the MCP Inspector.
+mcp[cli]>=2.3,<3
+psutil>=7.2.2,<8
